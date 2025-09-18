@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+langchain
+boto3
+pydantic
+
